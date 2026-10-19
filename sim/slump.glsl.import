@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c1v7rrvwp2tcc"
+path="res://.godot/imported/slump.glsl-b70ce2ecf19fbfd0675d6bdf16b6de7a.res"
+
+[deps]
+
+source_file="res://sim/slump.glsl"
+dest_files=["res://.godot/imported/slump.glsl-b70ce2ecf19fbfd0675d6bdf16b6de7a.res"]
+
+[params]
+

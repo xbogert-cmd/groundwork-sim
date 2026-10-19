@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bc1mcqh16iobf"
+path="res://.godot/imported/flux.glsl-b850b2c0caf0e34432d712745338a44b.res"
+
+[deps]
+
+source_file="res://sim/flux.glsl"
+dest_files=["res://.godot/imported/flux.glsl-b850b2c0caf0e34432d712745338a44b.res"]
+
+[params]
+
